@@ -51,13 +51,13 @@ layout: default
 
 {% capture amsf_page_heading_external %}
   {% if page.link %}
-    class=external
+    class="external"
   {% endif %}
 {% endcapture %}
 
 {% capture amsf_page_heading %}
   {% if page.link %}
-    <a href="{{ page.link }}" class=external>
+    <a href="{{ page.link }}" class="external">
       {{ amsf_page_heading_text }}
     </a>
   {% else %}
@@ -88,7 +88,7 @@ layout: default
   </header>
 
   <!-- Post content -->
-  <div class=post-content>
+  <div class="post-content">
     {{ content }}
   </div>
 
