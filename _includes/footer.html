@@ -1,0 +1,13 @@
+<!-- Footer section -->
+{% if page.permalink == '/' and site.clean_homepage %}
+{% else %}
+  <footer class=footer>
+    <ul>
+      <li><a href="{{ site.base }}/">Home</a></li>
+      <!-- <li><a href="{{ amsf_feed_url }}" title="Feed - Atom (The Atom Syndication Format)">Feed</a></li> -->
+      {% for social in site.data.social %}
+        <li><a target="_blank" href="{{ social.url }}" title="{{ social.title }}"><i class="fa {{ social.icon }}"></i></a></li>
+      {% endfor %}
+    </ul>
+  </footer>
+{% endif %}

@@ -1,0 +1,24 @@
+- title: Email
+  desc: "Email"
+  icon: fa-envelope-o
+  url: mailto:nspotrepka@gmail.com
+
+- title: Instagram
+  desc: "Instagram"
+  icon: fa-instagram
+  url: https://instagram.com/potrepka
+
+- title: GitHub
+  desc: "GitHub"
+  icon: fa-github-alt
+  url: https://github.com/nspotrepka
+
+- title: SoundCloud
+  desc: "SoundCloud"
+  icon: fa-soundcloud
+  url: https://soundcloud.com/potrepka
+
+- title: LinkedIn
+  desc: "LinkedIn"
+  icon: fa-linkedin
+  url: https://linkedin.com/in/nspotrepka
