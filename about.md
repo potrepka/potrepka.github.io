@@ -4,23 +4,20 @@ title: Hi, I'm Nathaniel!
 permalink: /about/
 ---
 
-My mission is to enhance human creativity with the help of computers.
+My mission in life is to contribute to creative computing.
 
 We are on the verge of a radical shift in evolution. Today, computers are faster
 and smarter than ever. As technology grows, we become increasingly responsible
-for teaching computers as we would teach a friend. Welcome to the new era.
+for teaching computers as we would teach a friend.
 
-Recently, I have been finding tremendous purpose in exploring the landscape
-that exists within my human form. Every day is a new opportunity for life to
-blossom. I do not worry about my demise, as it has already been written. I play
-dumb. Until my dream becomes reality, I take my day one step at a time.
+I recently completed a Master of Science in Computer Science at University of
+Southern California, with concentration in Data Science. Outside of academia, I
+enjoy music, art, fitness, and philosophy. Technology has opened up worlds of
+experience for me, and my dream is to show others what I have seen.
 
-I'm currently doing a Master of Science in Computer Science at University of
-Southern California, concentrating in Data Science. Outside of academia, I enjoy
-exercise, music, art, and reading. Technology has opened up worlds of experience
-for me, and my dream is to show others what I have seen.
+I am currently working on music and art projects.
 
-**Learn. Love. Create.**
+**Explore. Learn. Create.**
 
 ## Social
 

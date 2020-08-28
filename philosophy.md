@@ -13,7 +13,7 @@ desc: Food for thought
 
 [The Bible](https://www.bible.com/)
 
-[Tao Te Ching by Lao Tzu](http://www.taoteching.org.uk/index.php?c=0&a=Stephen+Mitchell)
+[Tao Te Ching by Lao Tzu](https://www.poetryintranslation.com/PITBR/Chinese/TaoTeChing.php)
 
 [Nature by Ralph Waldo Emerson](https://www.gutenberg.org/files/29433/29433-h/29433-h.htm)
 
