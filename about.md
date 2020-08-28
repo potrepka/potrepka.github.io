@@ -4,11 +4,11 @@ title: Hi, I'm Nathaniel!
 permalink: /about/
 ---
 
-My mission in life is to contribute to creative computing.
-
 We are on the verge of a radical shift in evolution. Today, computers are faster
 and smarter than ever. As technology grows, we become increasingly responsible
 for teaching computers as we would teach a friend.
+
+My mission in life is to make great contributions to creative computing.
 
 I recently completed a Master of Science in Computer Science at University of
 Southern California, with concentration in Data Science. Outside of academia, I
