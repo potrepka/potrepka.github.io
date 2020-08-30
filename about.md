@@ -12,8 +12,8 @@ My mission in life is to make great contributions to creative computing.
 
 I recently completed a Master of Science in Computer Science at University of
 Southern California, with concentration in Data Science. Outside of academia, I
-enjoy music, art, fitness, and philosophy. Technology has opened up worlds of
-experience for me, and my dream is to show others what I have seen.
+enjoy music, art, philosophy, and fitness. Computer technology has opened up
+worlds of experience for me, and my dream is to show others what I have seen.
 
 I am currently working on music and art projects.
 
