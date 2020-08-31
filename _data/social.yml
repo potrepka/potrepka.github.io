@@ -8,6 +8,11 @@
   icon: fa-instagram
   url: https://instagram.com/potrepka
 
+- title: Vimeo
+  desc: "Vimeo"
+  icon: fa-vimeo
+  url: https://vimeo.com/potrepka
+
 - title: GitHub
   desc: "GitHub"
   icon: fa-github-alt
