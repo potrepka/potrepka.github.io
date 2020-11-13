@@ -15,8 +15,6 @@ experience for me, and my dream is to show others what I have seen.
 Currently, I am working on two projects: [Particle](/particle/) and
 [Artifact](/artifact/).
 
-**Explore. Learn. Create.**
-
 ## Social
 
 <p>
