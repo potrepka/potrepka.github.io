@@ -5,9 +5,18 @@ permalink: /art/
 desc: Colors and shapes
 ---
 
-[<i class="fa fa-instagram"></i> Instagram](https://www.instagram.com/potrepka)
-<br>
-[<i class="fa fa-vimeo"></i> Vimeo](https://www.vimeo.com/potrepka)
+<!-- <p>
+  <small>
+  {% for social in site.data.social %}
+    {% if social.category == "art" %}
+      <a target="_blank" href="{{ social.url }}" title="{{ social.title }}">
+        <i class="fa {{ social.icon }}"></i>
+        {{ social.desc }}
+      </a><br>
+    {% endif %}
+  {% endfor %}
+  </small>
+</p> -->
 
 <div>
 {% for post in site.categories.art %}

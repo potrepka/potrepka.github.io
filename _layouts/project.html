@@ -45,7 +45,7 @@ layout: default
   {% elsif page.svg-headline %}
     {{ amsf_page_heading_type_svg }}
   {% else %}
-    {{ page.title }} <span></span>
+    {{ page.title }}
   {% endif %}
 {% endcapture %}
 
@@ -57,7 +57,7 @@ layout: default
 
 {% capture amsf_page_heading %}
   {% if page.link %}
-    <a href="{{ page.link }}" class="external">
+    <a target="_blank" href="{{ page.link }}" class="external">
       {{ amsf_page_heading_text }}
     </a>
   {% else %}
@@ -89,6 +89,9 @@ layout: default
 
   <!-- Post content -->
   <div class="post-content">
+    {% if page.link %}
+      <p><a target="_blank" href="{{ page.link }}">{{ page.link-desc }}</a></p>
+    {% endif %}
     {{ content }}
   </div>
 

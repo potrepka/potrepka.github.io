@@ -31,4 +31,8 @@
       <a href="{{ post.link }}" class="external"><span {% if site.colorful_list %}{{ post_link_bg }}{% endif %}></span></a>
     {% endif %}
   </h1>
+
+  {% if post.desc %}
+    <p {% if site.colorful_list %}{{ post_link_color }}{% endif %}>{{ post.desc }}</p>
+  {% endif %}
 </section>

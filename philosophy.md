@@ -5,18 +5,28 @@ permalink: /philosophy/
 desc: Food for thought
 ---
 
+<!-- <p>
+  <small>
+  {% for social in site.data.social %}
+    {% if social.category == "philosophy" %}
+      <a target="_blank" href="{{ social.url }}" title="{{ social.title }}">
+        <i class="fa {{ social.icon }}"></i>
+        {{ social.desc }}
+      </a><br>
+    {% endif %}
+  {% endfor %}
+  </small>
+</p> -->
+
 <div>
 {% for post in site.categories.philosophy %}
   {% include page-item.html %}
 {% endfor %}
 </div>
 
-[The Bible](https://www.bible.com/)
+There are many great writings, and each is unique in its own right. These are
+the writings I have found to be most influential in my understanding of purpose:
 
-[Tao Te Ching by Lao Tzu](https://www.poetryintranslation.com/PITBR/Chinese/TaoTeChing.php)
-
-[Nature by Ralph Waldo Emerson](https://www.gutenberg.org/files/29433/29433-h/29433-h.htm)
-
-[Zen in the Art of Archery by Eugen Herrigel](https://en.wikipedia.org/wiki/Zen_in_the_Art_of_Archery)
-
-[Man's Search for Meaning by Viktor E. Frankl](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+{% for book in site.data.books %}
+  1. <a target="_blank" href="{{ book.url }}" title="{{ book.title }}">{{ book.desc }}</a>
+{% endfor %}

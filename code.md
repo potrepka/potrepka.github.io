@@ -5,7 +5,18 @@ permalink: /code/
 desc: Beep boop
 ---
 
-[<i class="fa fa-github-alt"></i> GitHub](https://www.github.com/nspotrepka)
+<!-- <p>
+  <small>
+  {% for social in site.data.social %}
+    {% if social.category == "code" %}
+      <a target="_blank" href="{{ social.url }}" title="{{ social.title }}">
+        <i class="fa {{ social.icon }}"></i>
+        {{ social.desc }}
+      </a><br>
+    {% endif %}
+  {% endfor %}
+  </small>
+</p> -->
 
 <div>
 {% for post in site.categories.code %}

@@ -14,18 +14,17 @@ permalink: /
     </h1>
   </header>
 
-  <br>
+  <p>
+    <small>
+      {% for category in site.data.categories %}
+        <a href="{{ category.url }}" style="padding: 0.15em 0.6em; text-transform: uppercase;">{{ category.title }}</a>
+      {% endfor %}
+    </small>
+  </p>
 
   <div class="page-content">
     {% for post in site.posts %}
       {% include page-item.html %}
     {% endfor %}
   </div>
-
-  <small>
-    <a href="/art">ART</a><br>
-    <a href="/code">CODE</a><br>
-    <a href="/music">MUSIC</a><br>
-    <a href="/philosophy">PHILOSOPHY</a>
-  </small>
 </article>
