@@ -28,7 +28,7 @@
 
     <!-- External link indicator -->
     {% if post.link %}
-      <a href="{{ post.link }}" class="external"><span {% if site.colorful_list %}{{ post_link_bg }}{% endif %}></span></a>
+      <a target="_blank" href="{{ post.link }}" class="external"><span {% if site.colorful_list %}{{ post_link_bg }}{% endif %}></span></a>
     {% endif %}
   </h1>
 
