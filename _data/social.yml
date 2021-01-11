@@ -14,11 +14,11 @@
   icon: fa-vimeo
   url: https://vimeo.com/potrepka
   category: art
-  
+
 - title: GitHub
   desc: "GitHub"
   icon: fa-github
-  url: https://github.com/nspotrepka
+  url: https://github.com/potrepka
   category: code
 
 - title: YouTube
@@ -36,4 +36,4 @@
 - title: LinkedIn
   desc: "LinkedIn"
   icon: fa-linkedin
-  url: https://linkedin.com/in/nspotrepka
+  url: https://linkedin.com/in/potrepka
