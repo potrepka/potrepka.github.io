@@ -6,14 +6,13 @@ permalink: /about/
 
 My mission in life is to make great contributions to creative computing.
 
-I recently completed a Master of Science in Computer Science at University of
-Southern California, with concentration in Data Science. My interests are
-numerous, spanning across the disciplines of music, art, fashion, movement,
+I recently completed a Master of Science in Computer Science at the University
+of Southern California, with concentration in Data Science. My interests are
+numerous, spanning across the disciplines of art, music, fashion, movement,
 social interaction, and philosophy. Computer technology has opened up worlds of
 experience for me, and my dream is to show others what I have seen.
 
-Currently, I am working on two projects: [Particle](/particle/) and
-[Artifact](/artifact/).
+Right now, I am working on [AutoCycles](/autocycles/).
 
 ## Social
 
