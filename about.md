@@ -12,7 +12,7 @@ numerous, spanning across the disciplines of art, music, fashion, movement,
 social interaction, and philosophy. Computer technology has opened up worlds of
 experience for me, and my dream is to show others what I have seen.
 
-Right now, I am working on [AutoCycles](/autocycles/).
+Right now, I am working on [Atlas](/atlas/).
 
 ## Social
 
