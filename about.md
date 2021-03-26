@@ -4,7 +4,8 @@ title: Hi, I'm Nathaniel!
 permalink: /about/
 ---
 
-My mission in life is to make great contributions to creative computing.
+My life's mission is to make great contributions to computing in the creative
+arts.
 
 I recently completed a Master of Science in Computer Science at the University
 of Southern California, with concentration in Data Science. My interests are
