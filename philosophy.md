@@ -25,7 +25,7 @@ desc: Food for thought
 </div>
 
 There are many great writings, and each is unique in its own right. These are
-the writings I have found to be most influential in my understanding of purpose:
+the writings I have found to be most influential in my quest for purpose:
 
 {% for book in site.data.books %}
   1. <a target="_blank" href="{{ book.url }}" title="{{ book.title }}">{{ book.desc }}</a>
