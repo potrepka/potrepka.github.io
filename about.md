@@ -13,7 +13,7 @@ movement, and philosophy, and I intend to touch on each of these areas over the
 course of my career. Computers have opened up an entire world of experience for
 me, and my dream is to show others what I have seen.
 
-Right now, I am working on original music and building an audio plugin.
+Right now, I am working on music projects.
 
 ## Social
 
