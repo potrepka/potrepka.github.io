@@ -8,7 +8,7 @@
 # {{ author.twitter }}: used by Twitter Cards
 
 default:
-  name:         Nathaniel S. Potrepka
+  name:         Nathaniel Potrepka
   email:        nspotrepka@gmail.com
   web:          https://potrepka.com/
   twitter:      potrepka

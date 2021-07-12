@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nathaniel S. Potrepka
+title: Nathaniel Potrepka
 permalink: /
 ---
 
@@ -10,7 +10,7 @@ permalink: /
   <!-- Post title -->
   <header>
     <h1 class="amsf-title">
-      Nathaniel S. Potrepka
+      Nathaniel Potrepka
     </h1>
   </header>
 
