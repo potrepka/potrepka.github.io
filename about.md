@@ -7,13 +7,13 @@ permalink: /about/
 My life's mission is to make great contributions to computing in the creative
 arts.
 
-I am currently based in the San Francisco Bay Area. My interests are numerous,
-spanning across the disciplines of art, music, fashion, social interaction,
-movement, and philosophy, and I intend to touch on each of these areas over the
-course of my career. Computers have opened up an entire world of experience for
-me, and my dream is to show others what I have seen.
+My interests are numerous, spanning across the disciplines of art, music,
+fashion, social interaction, movement, and philosophy, and I intend to delve
+into each of these areas over the course of my career. Computers have opened up
+an entire world of experience for me, and my dream is to show others what I have
+seen.
 
-Right now, I am working on music projects.
+Right now, I am working on a music software project.
 
 ## Social
 
