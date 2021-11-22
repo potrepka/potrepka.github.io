@@ -3,37 +3,37 @@
   icon: fa-envelope-o
   url: mailto:nspotrepka@gmail.com
 
+- title: Twitter
+  desc: "Twitter"
+  icon: fa-twitter
+  url: https://twitter.com/potrepka
+
 - title: Instagram
   desc: "Instagram"
   icon: fa-instagram
   url: https://instagram.com/potrepka
-  category: art
-
-- title: Vimeo
-  desc: "Vimeo"
-  icon: fa-vimeo
-  url: https://vimeo.com/potrepka
-  category: art
 
 - title: GitHub
   desc: "GitHub"
   icon: fa-github
   url: https://github.com/potrepka
-  category: code
 
 - title: YouTube
   desc: "YouTube"
   icon: fa-youtube
   url: https://www.youtube.com/channel/UCrlbGgZ7ZmDUFQsZA_Sh3vw
-  category: music
-
-- title: SoundCloud
-  desc: "SoundCloud"
-  icon: fa-soundcloud
-  url: https://soundcloud.com/potrepka
-  category: music
 
 - title: LinkedIn
   desc: "LinkedIn"
   icon: fa-linkedin
   url: https://linkedin.com/in/potrepka
+
+- title: SoundCloud
+  desc: "SoundCloud"
+  icon: fa-soundcloud
+  url: https://soundcloud.com/potrepka
+
+- title: Vimeo
+  desc: "Vimeo"
+  icon: fa-vimeo
+  url: https://vimeo.com/potrepka
