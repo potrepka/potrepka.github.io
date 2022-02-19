@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Hi, I'm Nathaniel!
+title: Hello, I'm Nathaniel!
 permalink: /about/
 ---
 
-My life's mission is to make great contributions to computing in the creative
-arts.
+I am on a mission to make great contributions to computing in the creative arts.
 
 My interests are numerous, spanning across the disciplines of art, music,
 fashion, social interaction, movement, and philosophy, and I intend to delve
 into each of these areas over the course of my career. Computers have opened up
-an entire world of experience for me, and my dream is to show others what I have
-seen.
+an entire world of experience for me, and my goal is build tools for others to
+feel the same joy that I experienced while creating as a child.
 
 ## Social
 
