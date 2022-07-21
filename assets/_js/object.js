@@ -22,10 +22,10 @@ var lightY = new THREE.DirectionalLight(0xffffff, 0.2);
 var lightZ = new THREE.DirectionalLight(0xffffff, 0.5);
 var lightW = new THREE.DirectionalLight(0xffffff, 0.5);
 
-lightX.position.set(-1, 1, -1).normalize();
-lightY.position.set(-0.5, 0, 1).normalize();
-lightZ.position.set(1, 0, 0.5).normalize();
-lightW.position.set(1, 0, -1).normalize();
+lightX.position.set(1, 1, 1).normalize();
+lightY.position.set(0.5, 0, -1).normalize();
+lightZ.position.set(-1, 0, -0.5).normalize();
+lightW.position.set(-1, 0, 1).normalize();
 
 scene.add(lightX);
 scene.add(lightY);
@@ -46,7 +46,6 @@ if (mtl && obj) {
     objLoader.setMaterials(materials);
     objLoader.setPath('/assets/obj/');
     objLoader.load(obj, function (object) {
-      object.rotateX(-Math.PI / 2);
       scene.add(object);
     });
   });
@@ -54,7 +53,6 @@ if (mtl && obj) {
   var objLoader = new THREE.OBJLoader();
   objLoader.setPath('/assets/obj/');
   objLoader.load(obj, function (object) {
-    object.rotateX(-Math.PI / 2);
     object.traverse(function (child) {
       if (child instanceof THREE.Mesh) {
         child.material = new THREE.MeshLambertMaterial({
