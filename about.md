@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Hello, I'm Nathaniel!
+title: Hi, I'm Nathaniel!
 permalink: /about/
 ---
 
-I am on a mission to make great contributions to computing in the creative arts.
+My mission is to make great contributions to computing in the creative arts.
 
-My interests are numerous, spanning across the disciplines of art, music,
-fashion, social interaction, movement, and philosophy, and I intend to delve
-into each of these areas over the course of my career. Computers have opened up
-entire worlds for me, and my goal is build tools so that others may experience
-the same joy that I felt as a child when I was introduced to computers for the
-first time.
+The direction of my career is multifaceted, spanning across the disciplines of
+art, music, fashion, social interaction, movement, and philosophy; I intend to
+delve into each of these areas over the course of my life.
+
+Computers have opened up the world for me, and my goal is build tools for others
+to experience the same wonder and joy that I felt as a child when I was first
+introduced to computers.
 
 ## Social
 
