@@ -16,9 +16,10 @@ permalink: /
 
   <p>
     <small>
-      {% for category in site.data.categories %}
-        <a href="{{ category.url }}" style="padding: 0.229em 0.6em; text-transform: uppercase;">{{ category.title }}</a>
-      {% endfor %}
+      {% for category in site.data.categories %}<a
+        href="{{ category.url }}"
+        style="margin-right: 1.2em; padding: 0.229em 0; text-transform: uppercase;"
+      >{{ category.title }}</a>{% endfor %}
     </small>
   </p>
 
