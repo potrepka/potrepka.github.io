@@ -20,7 +20,7 @@ introduced to computers.
   <small>
   {% for social in site.data.social %}
     <a target="_blank" href="{{ social.url }}" title="{{ social.title }}">
-      <i class="fa {{ social.icon }}"></i>
+      <i class="fa {{ social.icon }}" style="min-width: 1.8vw"></i>
       {{ social.desc }}
     </a><br>
   {% endfor %}
