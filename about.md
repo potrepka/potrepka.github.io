@@ -11,8 +11,8 @@ art, music, fashion, social interaction, movement, and philosophy; I intend to
 delve into each of these areas over the course of my life.
 
 Computers have been the backbone of my creative output since I was a child, and
-my goal is to build tools so that others may experience the same wonder and joy
-that I felt when I was first introduced to computers.
+my goal in technology is to build software tools that allow others to experience
+the same wonder and joy that I felt when I was first introduced to computers.
 
 ## Social
 
