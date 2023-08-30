@@ -4,15 +4,15 @@ title: Hi, I'm Nathaniel!
 permalink: /about/
 ---
 
-I am a creator in many disciplines.
+I am a creator across many disciplines.
 
 My primary creative medium is computer music. Over the years, I have cultivated
-an understanding of both computers and music, the combination of which produces
-sound that often draws me into a contemplative state. With more than a decade of
-experimentation in the field, I have spent countless hours studying functional
-programming, data structures, concurrency, and artificial intelligence through
-the lens of computer music, and it is on the back of these learnings that I
-build my magnum opus.
+an understanding of both computers and music, listening to the works of great
+musicians and reading about the techniques of great music technologists. With
+more than a decade of experimentation in the field, I have spent countless hours
+studying functional programming, data structures, concurrency, and artificial
+intelligence through the lens of computer music, and it is on the back of these
+learnings that I build my magnum opus.
 
 More recently, I have taken a liking to blockchain technology and its potential
 for creating real consensus in large populations. Though no system is perfect,
