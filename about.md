@@ -4,15 +4,33 @@ title: Hi, I'm Nathaniel!
 permalink: /about/
 ---
 
-My mission is to make great contributions to computing in the creative arts.
+I am a creator in many disciplines.
 
-The direction of my career is multifaceted, spanning across the disciplines of
-art, music, fashion, social interaction, movement, and philosophy; I intend to
-delve into each of these areas over the course of my life.
+My primary creative medium is computer music. Over the years, I have cultivated
+an understanding of both computers and music, the combination of which produces
+sound that often draws me into a contemplative state. With more than a decade of
+experimentation in the field, I have spent countless hours studying functional
+programming, data structures, concurrency, and artificial intelligence through
+the lens of computer music, and it is on the back of these learnings that I
+build my magnum opus.
 
-Computers have been the backbone of my creative output since I was a child, and
-my goal in technology is to build software tools that allow others to experience
-the same wonder and joy that I felt when I was first introduced to computers.
+More recently, I have taken a liking to blockchain technology and its potential
+for creating real consensus in large populations. Though no system is perfect,
+blockchain technology presents an opportunity to completely defer trust to the
+level of code so long as one participates in securing the network. Furthermore,
+state-of-the-art cryptographic methods provide new modalities for creative and
+social computing, which&mdash;much to my delight&mdash;are paving the way for
+a renaissance of computer art.
+
+The remainder of my interests span across the areas of computer graphics,
+philosophy, mathematics, movement, fashion, and much more. At the moment, I am
+especially interested in type theory and theories of motivation, as they each
+delineate boundaries of the natural world that orient the individual towards a
+rational understanding of existence and causality.
+
+I work hard to build tools that allow people to explore these topics, and my
+hope is that the world will find my constructions and, upon engaging with them,
+develop their own ways of seeing and their own ways of doing.
 
 ## Social
 
