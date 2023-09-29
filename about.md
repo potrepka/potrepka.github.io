@@ -4,9 +4,10 @@ title: Hi, I'm Nathaniel!
 permalink: /about/
 ---
 
-I am a creator across many disciplines.
+Welcome to my website! I am a software engineer with a deep interest in AI,
+agents, language models, and creativity. Here is a litle bit about me:
 
-My primary creative medium is computer music. Over the years, I have cultivated
+My primary creative outlet is computer music. Over the years, I have cultivated
 an understanding of both computers and music, listening to the works of great
 musicians and reading about the techniques of great music technologists. With
 more than a decade of experimentation in the field, I have spent countless hours
@@ -20,13 +21,13 @@ blockchain technology presents an opportunity to completely defer trust to the
 level of code so long as one participates in securing the network. Furthermore,
 state-of-the-art cryptographic methods provide new modalities for creative and
 social computing, which&mdash;much to my delight&mdash;are paving the way for
-a renaissance of computer art.
+a renaissance of computer art in a new medium called "smart contracts".
 
 The remainder of my interests span across the areas of computer graphics,
-philosophy, mathematics, movement, fashion, and much more. At the moment, I am
-especially interested in type theory and theories of motivation, as they each
-delineate boundaries of the natural world that orient the individual towards a
-rational understanding of existence and causality.
+philosophy, mathematics, movement, architecture, fashion, and much more. At the
+moment, I am especially interested in type theory and decision-making, as they
+each delineate boundaries of the natural world that orient the individual
+towards an understanding of reality.
 
 I work hard to build tools that allow people to explore these topics, and my
 hope is that the world will find my constructions and, upon engaging with them,
