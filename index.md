@@ -10,7 +10,7 @@ permalink: /
   <!-- Post title -->
   <header>
     <h1 class="amsf-title">
-      Nathaniel Potrepka
+      {{ site.name }}
     </h1>
   </header>
 
